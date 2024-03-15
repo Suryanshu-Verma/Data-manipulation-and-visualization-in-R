@@ -1,4 +1,4 @@
-Introduction:Implemented Classification Techniques to demonstrating some data manipulation and visualization techniques in R.
+Introduction: Implemented Classification Techniques to demonstrating some data manipulation and visualization techniques in R.
 
 Data:
 
